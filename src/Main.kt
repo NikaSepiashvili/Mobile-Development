@@ -6,5 +6,6 @@ fun main() {
     println(avg(nums))
 
     println(palindrome("aca"))
+    println(palindrome("nika"))
 
 }
